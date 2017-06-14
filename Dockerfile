@@ -1,4 +1,4 @@
-FROM macintoshplus/php70
+FROM macintoshplus/php71
 MAINTAINER Jean-Baptiste Nahan <jean-baptiste@nahan.fr>
 
 RUN apt-get install -y graphviz
